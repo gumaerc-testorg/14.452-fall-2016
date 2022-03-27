@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7a0f5cef-ae8a-27c9-aa66-38c6114c83bb
 resourcetype: Document
 title: Lectures 2 and 3, The Solow Growth Model
 uid: 2b68057a-a4e7-4410-d00a-e89a0c49752f

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 75fde76a-bf70-4c39-cee1-d31470f7591d
 resourcetype: Document
 title: The Consumer's Budget Constraint and His / Her Assets (PDF)
 uid: e655acc8-3aeb-53ff-06fd-9f0646bf7900

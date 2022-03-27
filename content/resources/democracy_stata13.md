@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2be5646d-5a27-1ddd-b59d-524f65260839
 resourcetype: Other
 title: democracy_stata13.dta
 uid: 737e5f6e-37c5-fa71-8c1b-53ed393e2bdf

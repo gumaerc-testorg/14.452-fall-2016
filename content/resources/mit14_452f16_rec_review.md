@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 75fde76a-bf70-4c39-cee1-d31470f7591d
 resourcetype: Document
 title: Review session
 uid: d083297e-b851-69e3-83b0-c5e2ae90f8d1

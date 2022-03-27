@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7a0f5cef-ae8a-27c9-aa66-38c6114c83bb
 resourcetype: Document
 title: Lectures 5 and 6, Neoclassical Growth
 uid: 8ceedd0a-6769-d25c-00ad-6c028a8476e2
