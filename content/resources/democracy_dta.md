@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-452-economic-growth-fall-2016/26454da905e00544ed421f91386ea86f_democracy_dta.dta
+file: /courses/14-452-economic-growth-fall-2016/26454da905e00544ed421f91386ea86f_democracy_dta.dta
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
