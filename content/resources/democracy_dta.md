@@ -5,6 +5,7 @@ file: /courses/14-452-economic-growth-fall-2016/26454da905e00544ed421f91386ea86f
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

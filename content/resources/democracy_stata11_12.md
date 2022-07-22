@@ -6,6 +6,7 @@ file: /courses/14-452-economic-growth-fall-2016/83d15b9b60ffaf25a1f304d919703953
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: democracy_stata11_12.dta
 uid: 83d15b9b-60ff-af25-a1f3-04d919703953
 ---
 This special file contains the information regarding democracy stata 11 and 12.
-
