@@ -2,7 +2,7 @@
 content_type: resource
 description: This special file contains the information regarding democracy stata
   11 and 12.
-file: /courses/14-452-economic-growth-fall-2016/83d15b9b60ffaf25a1f304d919703953_democracy_stata11_12.dta
+file: /ol-ocw-studio-app/courses/14-452-economic-growth-fall-2016/83d15b9b60ffaf25a1f304d919703953_democracy_stata11_12.dta
 file_size: 618915
 file_type: application/octet-stream
 learning_resource_types:
